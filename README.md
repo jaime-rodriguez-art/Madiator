@@ -33,9 +33,13 @@
 
 1. Install Python
 
-2. Extract the folder from the zip on your desktop and open it.
+2. Install PIP
 
-3. Install the python modules in requirements.txt, by typing "pip install -r requirements.txt"
+3. Install TK
+
+3. Extract the folder from the zip on your desktop and open it.
+
+4. Install the python modules in requirements.txt, by typing "pip install -r requirements.txt"
 
 ## Instructions
 
