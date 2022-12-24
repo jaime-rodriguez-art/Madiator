@@ -31,13 +31,15 @@
 
 ## Install
 
-1. Install Python
+1. Install Tor.
 
-2. Install PIP
+2. Install Python.
 
-3. Extract the folder from the zip on your desktop and open it.
+3. Install PIP.
 
-4. Install the python modules in requirements.txt, by typing "pip install -r requirements.txt"
+4. Extract the folder from the zip on your desktop and open it.
+
+5. Install the python modules in requirements.txt, by typing "pip install -r requirements.txt"
 
 ## Instructions
 
