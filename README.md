@@ -1,4 +1,4 @@
-<h1 align="center">Madiator - Anti - AI</h1>
+<h1 align="center">Madiator - Anti - AI - 1.0</h1>
 
 <br />
 
