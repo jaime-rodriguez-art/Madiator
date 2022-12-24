@@ -31,9 +31,9 @@
 
 ## Install
 
-1. Install Tor.
+1. Install Tor. https://www.torproject.org/download/
 
-2. Install Python.
+2. Install Python. https://www.python.org/downloads/
 
 3. Install PIP.
 
