@@ -1,0 +1,5 @@
+TIME-python==0.0.4
+essential-generators==1.0.0
+Random-Word==1.0.11
+pywhatkit==5.4.0
+keyboard==0.13.5
