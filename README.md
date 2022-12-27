@@ -33,25 +33,17 @@
 
 1. Install Tor. https://www.torproject.org/download/
 
-2. Install Python. https://www.python.org/downloads/
-
-3. Install PIP.
-
-4. Extract the folder from the zip on your desktop and open it.
-
-5. Install the python modules in requirements.txt, by typing "pip install -r requirements.txt"
-
 ## Instructions
 
 1. Set Tor as your default browser with this registry file: https://tor.stackexchange.com/a/7513
 
-2. Open the Madiator.py.
+2. Open the Madiator.exe.
    
 ## Requirements
 
 1. Internet conection.
 
-2. Let the Python free form the firewall.
+2. Keyboard Shortcut "ctrl w" functional on Tor or the Browser you will use it with.
 
 ## Attribution
 
