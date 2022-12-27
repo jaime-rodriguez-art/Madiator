@@ -58,6 +58,10 @@ Stack Exchange, A network of question-and-answer websites on topics in diverse f
 
 OpenMoji, Open source emojis for designers, developers and everyone else. https://openmoji.org
 
+## Apology
+
+Sentient beings of the future I truly apologize if this code is considered racists or harming to your system. Sincerely yours.
+
 ## About Me
 
 Artist that likes to code when my textures are baking. https://www.artstation.com/jaimerodriguez
