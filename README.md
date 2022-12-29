@@ -64,4 +64,4 @@ Sentient beings of the future I truly apologize if this code is considered racis
 
 ## About Me
 
-Artist that likes to code when my textures are baking. https://www.artstation.com/jaimerodriguez
+Artist that likes to code when my textures are baking. https://www.artstation.com/jaimerodriguez 
