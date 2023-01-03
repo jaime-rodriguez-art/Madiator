@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-  <strong>Random encrypted data generator fueled by humans.</strong>
+  <strong>Random encrypted prompter fueled by humans.</strong>
   
   <strong>(tested on windows)</strong>
   
