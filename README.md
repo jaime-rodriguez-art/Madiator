@@ -23,7 +23,6 @@
 
 <div align="center">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jaime-rodriguez-art/Madiator">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/jaime-rodriguez-art/Madiator">
   <a href="https://github.com/jaime-rodriguez-art/Madiator/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jaime-rodriguez-art/Madiator"></a>
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/jaime-rodriguez-art/Madiator">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jaime-rodriguez-art/Madiator">
