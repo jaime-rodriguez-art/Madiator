@@ -15,7 +15,7 @@
 <div align="center">
   <strong>Random encrypted prompter fueled by humans.</strong>
   
-  <strong>(just in case we need it)</strong>
+  <strong>(Concept, just in case we need it)</strong>
   
 </div>
 
